@@ -1,0 +1,9 @@
+# Ignore the node_modules directory
+node_modules/
+
+# Ignore specific dependencies (if needed)
+# /node_modules/some_dependency/
+
+# Ignore specific files installed by npm (optional)
+# /package-lock.json
+# /yarn.lock
